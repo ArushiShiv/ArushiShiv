@@ -81,19 +81,12 @@
 
 ## 📌 Projects & Contributions
 
-**### 🔬 Prediction of Diabetes System | ML | Python
-
-### ☁️ Agile Methodologies – Digital Time Capsule | Cloud | Python | Scrum
-
-### 🎮 Game Development | Unreal Engine 5
-
-### 📊 Cuisines of Uttar Pradesh | Power BI | Business Analytics | ML
-
-### 🚦 Traffic Management System & Uber Data Analysis | R | AI | ML | Python
-
-### 📈 Stock Market Prediction | AI Agents | ML | LSTM | ARIMA | Flask
-**
-
+🔬 Prediction of Diabetes System | ML | Python  
+☁️ Agile Methodologies – Digital Time Capsule | Cloud | Python | Scrum  
+🎮 Game Development | Unreal Engine 5  
+📊 Cuisines of Uttar Pradesh | Power BI | Business Analytics | ML  
+🚦 Traffic Management System & Uber Data Analysis | R | AI | ML | Python  
+📈 Stock Market Prediction | AI Agents | ML | LSTM | ARIMA | Flask
 
 ---
 
