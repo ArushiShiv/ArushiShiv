@@ -92,26 +92,22 @@
 
 ## 📜 Certifications
 
--  **ServiceNow**
-  - Certified System Administrator (CSA)
-  - Certified Application Developer (CAD)
+- 🛠️ **ServiceNow**
+  - Certified System Administrator (CSA) ,Certified Application Developer (CAD)
 
--  **AWS & Cloud**
-  - Cloud Foundations [103024]
-  - Cloud Security Foundations [103103]
-  - Google Cloud Platform – Essentials
+- ☁️ **AWS & Cloud**
+  - Cloud Foundations [103024], Cloud Security Foundations [103103], Google Cloud Platform – Essentials
 
--  **Oracle**
-  - Java Foundation
-  - Database Foundation
+- 🧑‍💻 **Oracle**
+  - Java Foundation, Database Foundation
 
--  **Red Hat**
+- 🔧 **Red Hat**
   - RH124 – Red Hat System Administration
 
--  **Infosys Springboard**
+- 📊 **Infosys Springboard**
   - Big Data [201]
 
--  **NPTEL**
+- 🎓 **NPTEL**
   - Design Thinking
 
 ---
