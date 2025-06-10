@@ -7,11 +7,11 @@
 ---
 
 ## 💫 About Me:
-! B.Tech in Computer Science Engineering (Honours in Data Science) at Symbiosis Institute of Technology  
-! Passionate about Machine Learning, Data Science, Cyber Security and Cloud Computing  
-! Strong foundation in Python, C++ and SQL  
-! Skilled in ML, Deep Learning, Time-Series Forecasting, and Web Technologies  
-! Always exploring new ideas and tools in the world of AI and Software Development
+- B.Tech in Computer Science Engineering (Honours in Data Science) at Symbiosis Institute of Technology  
+- Passionate about Machine Learning, Data Science, Cyber Security and Cloud Computing  
+- Strong foundation in Python, C++ and SQL  
+- Skilled in ML, Deep Learning, Time-Series Forecasting, and Web Technologies  
+- Always exploring new ideas and tools in the world of AI and Software Development
 
 ---
 
@@ -92,26 +92,26 @@
 
 ## 📜 Certifications
 
-- ! **ServiceNow**
+-  **ServiceNow**
   - Certified System Administrator (CSA)
   - Certified Application Developer (CAD)
 
-- ! **AWS & Cloud**
+-  **AWS & Cloud**
   - Cloud Foundations [103024]
   - Cloud Security Foundations [103103]
   - Google Cloud Platform – Essentials
 
-- ! **Oracle**
+-  **Oracle**
   - Java Foundation
   - Database Foundation
 
-- ! **Red Hat**
+-  **Red Hat**
   - RH124 – Red Hat System Administration
 
-- ! **Infosys Springboard**
+-  **Infosys Springboard**
   - Big Data [201]
 
-- ! **NPTEL**
+-  **NPTEL**
   - Design Thinking
 
 ---
