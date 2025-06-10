@@ -92,23 +92,17 @@
 
 ## 📜 Certifications
 
-- 🛠️ **ServiceNow**
-  - Certified System Administrator (CSA) ,Certified Application Developer (CAD)
+- 🛠️ **ServiceNow:** Certified System Administrator (CSA) ,Certified Application Developer (CAD)
 
-- ☁️ **AWS & Cloud**
-  - Cloud Foundations [103024], Cloud Security Foundations [103103], Google Cloud Platform – Essentials
+- ☁️ **AWS & Cloud:** Cloud Foundations [103024], Cloud Security Foundations [103103], Google Cloud Platform – Essentials
 
-- 🧑‍💻 **Oracle**
-  - Java Foundation, Database Foundation
+- 🧑‍💻 **Oracle:** Java Foundation, Database Foundation
 
-- 🔧 **Red Hat**
-  - RH124 – Red Hat System Administration
+- 🔧 **Red Hat:** RH124 – Red Hat System Administration
 
-- 📊 **Infosys Springboard**
-  - Big Data [201]
+- 📊 **Infosys Springboard:** Big Data [201]
 
-- 🎓 **NPTEL**
-  - Design Thinking
+- 🎓 **NPTEL:** Design Thinking
 
 ---
 
@@ -120,17 +114,12 @@
   - Coordinator & Head, **Branding Club**, SIT Nagpur  
   - Responsible for platform supervision, content creation, and strategic planning  
 
-- 💡 **Campaigns & Volunteering:**
-  - Actively participated in social initiatives with **Kara Foundation** focused on:
-    - Drug Prevention  
-    - Women Empowerment  
-    - Child Nourishment  
+- 💡 **Campaigns & Volunteering:** Actively participated in social initiatives with **Kara Foundation** focused on:
+    - Drug Prevention, Women Empowerment, Child Nourishment  
 
-- ⚽ **Sports Leadership:**
-  - Led and represented college teams in **Football**, **Dodgeball**, and **Kho-Kho**
+- ⚽ **Sports Leadership:** Led and represented college teams in **Football**, **Dodgeball**, and **Kho-Kho**
 
-- 🗣️ **Languages Known:**
-  - English, Hindi (Native), Marathi (Conversational), Spanish (Basic)
+- 🗣️ **Languages Known:** English, Hindi (Native), Marathi (Conversational), Spanish (Basic)
 
 
 ## 📫 Contact Me
